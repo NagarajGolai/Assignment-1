@@ -1,4 +1,4 @@
-#Program to check a given a number is Even or Odd
+#Q.4: Program to check a given a number is Even or Odd
 
 
 given_num = int(input("Enter a number : ")
